@@ -35,7 +35,7 @@ const BOOKS = [
     author: "안톤 체호프",
     tag: "블랙 코미디",
     color: "from-blue-500 to-sky-700",
-    desc: "재채기 때문에 인생 제대로 꼬인 어느 관리의 이야기",
+    desc: "재채기 한번에 나락으로 떨어진 관리의 이야기",
     imageUrl: "https://placehold.co/100x133/0ea5e9/ffffff?text=관리의+죽음",
   },
 ];
