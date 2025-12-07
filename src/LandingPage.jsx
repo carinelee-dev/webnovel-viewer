@@ -22,11 +22,11 @@ const BOOKS = [
   },
   {
     id: 2,
-    title: "하룻밤의 잠자리",
+    title: "하룻밤의 숙소",
     author: "스티븐슨",
     tag: "스릴러/느와르",
     color: "from-purple-600 to-indigo-800",
-    desc: "살인과 도박, 그리고 시인의 기묘한 하룻밤",
+    desc: "도박과 살인, 그리고 시인의 기묘한 하룻밤",
     imageUrl: "https://placehold.co/100x133/4f46e5/ffffff?text=하룻밤",
   },
   {
@@ -35,7 +35,7 @@ const BOOKS = [
     author: "안톤 체호프",
     tag: "블랙 코미디",
     color: "from-blue-500 to-sky-700",
-    desc: "재채기 한 번에 인생이 꼬인 소심한 관리의 이야기",
+    desc: "재채기 때문에 인생 제대로 꼬인 어느 관리의 이야기",
     imageUrl: "https://placehold.co/100x133/0ea5e9/ffffff?text=관리의+죽음",
   },
 ];
@@ -292,7 +292,7 @@ export default function LandingPage({ onNavigate }) {
             </span>
           </div>
           <p className="text-gray-400">
-            고전 문학을 웹소설로 재탄생시키는 프로젝트입니다.
+            고전 문학을 웹소설로 재탄생 시키는 프로젝트입니다.
           </p>
           <p className="text-gray-500 pt-4">
             &copy; 2025 Classic Re:Book. All rights reserved.
